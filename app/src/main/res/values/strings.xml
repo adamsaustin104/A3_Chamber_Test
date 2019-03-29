@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A3 Chamber Test</string>
+    <string name="erase_sp">Erase</string>
+    <string name="start">START</string>
+    <string name="start_now">START NOW</string>
+    <string name="stop">STOP</string>
+    <string name="touch_logged">TOUCH DETECTED</string>
+    <string name="goToLogFile">Show Me</string>
+    <string name="detecting_touches">DETECTING TOUCHES</string>
+</resources>

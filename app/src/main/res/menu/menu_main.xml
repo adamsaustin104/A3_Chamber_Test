@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.junipersys.a3chambertest.MainActivity">
+    <item
+        android:id="@+id/eraseMenu"
+        android:orderInCategory="100"
+        android:title="@string/erase_sp"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
